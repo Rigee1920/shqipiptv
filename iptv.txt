@@ -1,0 +1,468 @@
+#EXTINF:-1,SKY 7
+http://us.bestvideostreaming.is/8889/playlist.m3u8
+#EXTINF:-1,21 MIX
+http://us.bestvideostreaming.is/8756/playlist.m3u8
+#EXTINF:-1,21 PLUS
+http://us.bestvideostreaming.is/8750/playlist.m3u8
+#EXTINF:-1,21 POPULLORE HD
+http://us.bestvideostreaming.is/8749/playlist.m3u8
+#EXTINF:-1,21 RTV
+http://us.bestvideostreaming.is/8748/playlist.m3u8
+#EXTINF:-1,21 TV MACEDONIA
+http://us.bestvideostreaming.is/8790/playlist.m3u8
+#EXTINF:-1,A TV
+http://us.bestvideostreaming.is/8709/playlist.m3u8
+#EXTINF:-1,ABC NEWS
+https://tv2.abcnews.al/live/abcnews/playlist.m3u8
+#EXTINF:-1,ALBANIA FOLK
+http://us.bestvideostreaming.is/8759/playlist.m3u8
+#EXTINF:-1,ALBANIAN TV AMERICA
+http://us.bestvideostreaming.is/8711/playlist.m3u8
+#EXTINF:-1,ALBMUSIK HD
+http://us.bestvideostreaming.is/8821/playlist.m3u8
+#EXTINF:-1,ALBUK
+http://us.bestvideostreaming.is/8794/playlist.m3u8
+#EXTINF:-1,AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
+#EXTINF:-1,ALPO
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1,ALSAT
+http://us.bestvideostreaming.is/8713/playlist.m3u8
+#EXTINF:-1,ARTA HD
+http://us.bestvideostreaming.is/8745/playlist.m3u8
+#EXTINF:-1,BABY TV
+http://us.bestvideostreaming.is/8747/playlist.m3u8
+#EXTINF:-1,BANG BANG
+http://us.bestvideostreaming.is/8737/playlist.m3u8
+#EXTINF:-1,CUFO
+http://93.157.62.180/Cufo/index.m3u8
+#EXTINF:-1,TRING TRING
+http://us.bestvideostreaming.is/8775/playlist.m3u8
+#EXTINF:-1,TRING KIDS
+http://us.bestvideostreaming.is/8777/playlist.m3u8
+#EXTINF:-1,BBF MUSIC TV
+http://us.bestvideostreaming.is/8795/playlist.m3u8
+#EXTINF:-1,BIG BROTHER VIP 1 HD
+http://us.bestvideostreaming.is/8803/playlist.m3u8
+#EXTINF:-1,BIG BROTHER VIP 2 HD
+http://us.bestvideostreaming.is/8804/playlist.m3u8
+#EXTM3U
+--FILMAT--
+#EXTINF:-1,TG SHQIP
+http://us.bestvideostreaming.is/8762/playlist.m3u8
+#EXTINF:-1,TG AKSION
+http://us.bestvideostreaming.is/8769/playlist.m3u8
+#EXTINF:-1,TG COMEDI
+http://us.bestvideostreaming.is/8767/playlist.m3u8
+#EXTINF:-1,TG FANTASY
+http://us.bestvideostreaming.is/8766/playlist.m3u8
+#EXTINF:-1,TG HISTORY
+http://us.bestvideostreaming.is/8765/playlist.m3u8
+#EXTINF:-1,TG JOLLY HD
+http://us.bestvideostreaming.is/8774/playlist.m3u8
+#EXTINF:-1,TG LIFE
+http://us.bestvideostreaming.is/8768/playlist.m3u8
+#EXTINF:-1,TG PLANET
+http://us.bestvideostreaming.is/8764/playlist.m3u8
+#EXTINF:-1,TG SUPER HD
+http://us.bestvideostreaming.is/8770/playlist.m3u8
+#EXTINF:-1,DG AKSION HD
+http://us.bestvideostreaming.is/8742/playlist.m3u8
+#EXTINF:-1,DG THRILLER
+http://us.bestvideostreaming.is/8757/playlist.m3u8
+#EXTINF:-1,DG AUTOR
+http://us.bestvideostreaming.is/8753/playlist.m3u8
+#EXTINF:-1,DG DRAME
+http://us.bestvideostreaming.is/8727/playlist.m3u8
+#EXTINF:-1,DG DY HD
+http://us.bestvideostreaming.is/8731/playlist.m3u8
+#EXTINF:-1,DG NJE HD
+http://us.bestvideostreaming.is/8730/playlist.m3u8
+#EXTINF:-1,DG EUROFILM
+http://us.bestvideostreaming.is/8758/playlist.m3u8
+#EXTINF:-1,DG FAMILY HD
+http://us.bestvideostreaming.is/8754/playlist.m3u8
+#EXTINF:-1,DG T HD
+http://us.bestvideostreaming.is/8746/playlist.m3u8
+#EXTINF:-1,DG HISTORI
+http://us.bestvideostreaming.is/8729/playlist.m3u8
+#EXTINF:-1,DG HITS HD
+http://us.bestvideostreaming.is/8755/playlist.m3u8
+#EXTINF:-1,DG KOMEDI
+http://us.bestvideostreaming.is/8752/playlist.m3u8
+#EXTINF:-1,DG SHKENCE
+http://us.bestvideostreaming.is/8726/playlist.m3u8
+#EXTINF:-1,DG NATYRE
+http://us.bestvideostreaming.is/8739/playlist.m3u8
+#EXTINF:-1,DG STINET
+http://us.bestvideostreaming.is/8751/playlist.m3u8
+#EXTINF:-1,PREMIUM 1 HD
+http://62.210.152.92:25461/HDasd5asss/asda/38
+#EXTINF:-1,PREMIUM 2 HD
+http://62.210.152.92:25461/HDasd5asss/asda/36
+#EXTINF:-1,PREMIUM 3 HD
+http://62.210.152.92:25461/HDasd5asss/asda/80
+#EXTINF:-1,PREMIUM 4 HD
+http://62.210.152.92:25461/HDasd5asss/asda/39
+#EXTINF:-1,PREMIUM FAMILY HD
+http://62.210.152.92:25461/HDasd5asss/asda/40
+#EXTM3U
+---TELEVIZION---
+#EXTINF:-1,DTV HD MUSIC
+http://us.bestvideostreaming.is/8793/playlist.m3u8
+#EXTINF:-1,ELRODI TV MUSIC
+http://us.bestvideostreaming.is/8718/playlist.m3u8
+#EXTINF:-1,FRAME TV MUSIC
+http://195.154.252.221:8000/play/a002/index.m3u8
+#EXTINF:-1,KLAN HD
+http://us.bestvideostreaming.is/8704/playlist.m3u8
+#EXTINF:-1,KLAN HD (backup)
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/106.ts
+#EXTINF:-1,KLAN HD (backup 1)
+http://62.210.152.92:25461/HDasd5asss/asda/6
+#EXTINF:-1,KLAN MACEDONIA
+http://us.bestvideostreaming.is/8789/playlist.m3u8
+#EXTINF:-1,KLAN PLUS
+http://us.bestvideostreaming.is/8720/playlist.m3u8
+#EXTINF:-1,KOSOVA
+http://us.bestvideostreaming.is/8706/playlist.m3u8
+#EXTINF:-1,KTV HD
+http://us.bestvideostreaming.is/8705/playlist.m3u8
+#EXTINF:-1,RTK
+http://us.bestvideostreaming.is/8702/playlist.m3u8
+#EXTINF:-1,RTSH 1
+https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8
+#EXTINF:-1,RTSH 2
+https://tvlive.rtsh.dev/live/rtsh_2ott/playlist.m3u8
+#EXTINF:-1,RTSH 3
+https://tvlive.rtsh.dev/live/rtsh3ott/playlist.m3u8
+#EXTINF:-1,RTSH 24
+https://tvlive.rtsh.dev/live/rtsh_24_ott/playlist.m3u8
+#EXTINF:-1,RTSH AGRO
+https://tvlive.rtsh.dev/live/rtsh_agro_ott/playlist.m3u8
+#EXTINF:-1,RTSH FEMIJE
+https://tvlive.rtsh.dev/live/rtsh_femije_ott/playlist.m3u8
+#EXTINF:-1,RTSH FILM
+https://tvlive.rtsh.dev/live/rtsh_film_ott/playlist.m3u8
+#EXTINF:-1,RTSH GJIROKASTRA
+https://tvlive.rtsh.dev/live/rtsh_gjirokastra_ott/playlist.m3u8
+#EXTINF:-1,RTSH KORCA
+https://tvlive.rtsh.dev/live/rtsh_korca_ott/playlist.m3u8
+#EXTINF:-1,RTSH KUKESI
+https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8
+#EXTINF:-1,RTSH KUVEND
+https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott/playlist.m3u8
+#EXTINF:-1,RTSH MUSIC
+https://tvlive.rtsh.dev/live/rtsh_muzike_mob/playlist.m3u8
+#EXTINF:-1,RTSH PLUS
+https://tvlive.rtsh.dev/live/rtsh_plus_ott/playlist.m3u8
+#EXTINF:-1,RTSH SATELIT
+http://us.bestvideostreaming.is/8701/playlist.m3u8
+#EXTINF:-1,RTSH SHKOLLE
+https://tvlive.rtsh.dev/live/rtsh_shkolle_ott/playlist.m3u8
+#EXTINF:-1,RTSH SHQIP
+http://us.bestvideostreaming.is/8721/playlist.m3u8
+#EXTINF:-1,RTSH SPORT
+https://tvlive.rtsh.dev/live/rtsh_sport_ott11/playlist.m3u8
+#EXTINF:-1,STAR HD
+http://us.bestvideostreaming.is/8781/playlist.m3u8
+#EXTINF:-1,SYRI HD
+http://us.bestvideostreaming.is/8784/playlist.m3u8
+#EXTINF:-1,TIP TV
+http://us.bestvideostreaming.is/8776/playlist.m3u8
+#EXTINF:-1,TOP CHANEL
+http://us.bestvideostreaming.is/8708/playlist.m3u8
+#EXTINF:-1,TOP CHANEL (backup)
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
+#EXTINF:-1,TOP CHANEL (backup 1)
+http://62.210.152.92:25461/HDasd5asss/asda/8
+#EXTINF:-1,TV 7 ALBANIA
+http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-1,TV APOLLON
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+#EXTINF:-1,TV DIELLI
+http://us.bestvideostreaming.is/8818/playlist.m3u8
+#EXTINF:-1,TV KOHA
+rtmp://live.tvkoha.tv:1935/live/koha/livestream
+#EXTINF:-1,TV LLAPI
+http://us.bestvideostreaming.is/8823/playlist.m3u8
+#EXTINF:-1,TV OPOJA
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1,TV PLISI
+http://us.bestvideostreaming.is/8735/playlist.m3u8
+#EXTINF:-1,U SMILE
+http://us.bestvideostreaming.is/8772/playlist.m3u8
+#EXTINF:-1,ZJARR TV
+http://217.73.132.66:1935/live/Zjarr.stream/playlist.m3u8
+#EXTINF:-1,VIZION PLUS
+http://us.bestvideostreaming.is/8703/playlist.m3u8
+#EXTM3U
+--SPORT--
+#EXTINF:-1,TRING SPORT 1
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts
+#EXTINF:-1,TRING SPORT 1 (backup)
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts
+#EXTINF:-1,TRING SPORT 2
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/62.ts
+#EXTINF:-1,TRING SPORT 2 (backup)
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/62.ts
+#EXTINF:-1,TRING SPORT 3
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts
+#EXTINF:-1,TRING SPORT 3 (backup)
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts
+#EXTINF:-1,TRING SPORT 4
+http://balkan-x.net:80/wS0GeiNhDl/j5Z5uVtLNZ/702.ts
+#EXTINF:-1,TRING SPORT 4 (backup)
+http://chouflive.ddns.net:8080/33hOGUuaWt/Oifwv3mSQh/3172
+#EXTINF:-1,SUPER SPORT NEWS
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
+#EXTINF:-1,SUPER SPORT 2
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts
+#EXTINF:-1,SUPER SPORT 2 (backup)
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/18
+#EXTINF:-1,SUPER SPORT 3
+http://185.226.88.6:11026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts
+#EXTINF:-1,SUPER SPORT 3 (backup)
+http://144.76.86.51:57060/stalker/zacj5NaQuQ7P3oPI/19
+#EXTINF:-1,SUPER SPORT 4
+http://balkan-x.net:80/wS0GeiNhDl/j5Z5uVtLNZ/698.ts
+#EXTINF:-1,SUPER SPORT 4 (backup)
+http://chouflive.ddns.net:8080/33hOGUuaWt/Oifwv3mSQh/3176
+#EXTINF:-1,BIEN SPORTS PREMIUM 1 HD (ARABIA)
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62541
+#EXTINF:-1,BIEN SPORTS PREMIUM 2 HD (ARABIA)
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62542
+#EXTINF:-1,BIEN SPORTS PREMIUM 3 HD (ARABIA)
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62543
+#EXTINF:-1,BIEN SPORTS 1 HD (ARABIA)
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62544
+#EXTINF:-1,BIEN SPORTS 2 HD (ARABIA)
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62545
+#EXTINF:-1,BIEN SPORTS 3 HD (ARABIA)
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62546
+#EXTINF:-1,BIEN SPORTS 4 HD (ARABIA)
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62547
+#EXTINF:-1,BIEN SPORTS 5 HD (ARABIA)
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62548
+#EXTINF:-1,BIEN SPORTS 6 HD (ARABIA)
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62549
+#EXTINF:-1,BIEN SPORTS 7 HD (ARABIA)
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62550
+#EXTINF:-1,SKY SPORTS F1 HD (UK)
+http://smartmedia.watch:2086/zaheer/zaheer/217378
+#EXTINF:-1,SKY SPORTS F1 SD (UK)
+http://smartmedia.watch:2086/zaheer/zaheer/217379
+#EXTINF:-1,SKY SPORTS F1 FHD (UK)
+http://smartmedia.watch:2086/zaheer/zaheer/217377
+#EXTINF:-1,BT SPORTS 1 HD (UK)
+http://smartmedia.watch:2086/zaheer/zaheer/31080
+#EXTINF:-1,BT SPORTS 1 UHD (UK)
+http://smartmedia.watch:2086/zaheer/zaheer/31081
+#EXTINF:-1,BT SPORTS 2 HD (UK)
+http://smartmedia.watch:2086/zaheer/zaheer/31082
+#EXTINF:-1,BT SPORTS 2 UHD (UK)
+http://smartmedia.watch:2086/zaheer/zaheer/31139
+#EXTM3U
+--ITALY--
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RAI 1 HD" tvg-logo="" group-title="Italy Channels",[IT]_RAI 1 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63176
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RAI 2 HD" tvg-logo="" group-title="Italy Channels",[IT]_RAI 2 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63177
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RAI 3 HD" tvg-logo="" group-title="Italy Channels",[IT]_RAI 3 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63178
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RAI 4 HD" tvg-logo="" group-title="Italy Channels",[IT]_RAI 4 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63179
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RAI 5 HD" tvg-logo="" group-title="Italy Channels",[IT]_RAI 5 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63180
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RAI STORIA HD" tvg-logo="" group-title="Italy Channels",[IT]_RAI STORIA HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63181
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RAI PREMIUM HD" tvg-logo="" group-title="Italy Channels",[IT]_RAI PREMIUM HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63182
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RAI MOVIE HD" tvg-logo="" group-title="Italy Channels",[IT]_RAI MOVIE HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63183
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RAI YOYO HD" tvg-logo="" group-title="Italy Channels",[IT]_RAI YOYO HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63184
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_CARTOON NETWORK HD" tvg-logo="" group-title="Italy Channels",[IT]_CARTOON NETWORK HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63185
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_AUTOMOTO HD" tvg-logo="" group-title="Italy Channels",[IT]_AUTOMOTO HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63186
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_BOING" tvg-logo="" group-title="Italy Channels",[IT]_BOING
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63187
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RETE 4 HD" tvg-logo="" group-title="Italy Channels",[IT]_RETE 4 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63188
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_CANALE 5 HD" tvg-logo="" group-title="Italy Channels",[IT]_CANALE 5 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63189
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_LA 5 HD" tvg-logo="" group-title="Italy Channels",[IT]_LA 5 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63190
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_ALICE" tvg-logo="" group-title="Italy Channels",[IT]_ALICE
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63191
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_NAT GEOGRAPHIC HD" tvg-logo="" group-title="Italy Channels",[IT]_NAT GEOGRAPHIC HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63192
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_FOX LIFE HD" tvg-logo="" group-title="Italy Channels",[IT]_FOX LIFE HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63193
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_FOX CRIME HD" tvg-logo="" group-title="Italy Channels",[IT]_FOX CRIME HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63194
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_CINE 34" tvg-logo="" group-title="Italy Channels",[IT]_CINE 34
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63195
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SUPER!" tvg-logo="" group-title="Italy Channels",[IT]_SUPER!
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63196
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_Giallo" tvg-logo="" group-title="Italy Channels",[IT]_Giallo
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63197
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_LA 7 HD" tvg-logo="" group-title="Italy Channels",[IT]_LA 7 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63198
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_PARAMOUNT CHANNEL HD" tvg-logo="" group-title="Italy Channels",[IT]_PARAMOUNT CHANNEL HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63199
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RadioMonteCarlo" tvg-logo="" group-title="Italy Channels",[IT]_RadioMonteCarlo
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63200
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RADIO ITALIA TV" tvg-logo="" group-title="Italy Channels",[IT]_RADIO ITALIA TV
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63201
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RADIO NORBA TV" tvg-logo="" group-title="Italy Channels",[IT]_RADIO NORBA TV
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63202
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RADIO ITALIA TREND" tvg-logo="" group-title="Italy Channels",[IT]_RADIO ITALIA TREND
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63203
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_REAL TIME" tvg-logo="" group-title="Italy Channels",[IT]_REAL TIME
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63204
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RTL 102.5 TV" tvg-logo="" group-title="Italy Channels",[IT]_RTL 102.5 TV
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63205
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_Radio TV 105" tvg-logo="" group-title="Italy Channels",[IT]_Radio TV 105
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63206
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_TOP CRIME MEDIASET" tvg-logo="" group-title="Italy Channels",[IT]_TOP CRIME MEDIASET
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63207
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_CARTOONITO" tvg-logo="" group-title="Italy Channels",[IT]_CARTOONITO
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63208
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_VIRGIN HD" tvg-logo="" group-title="Italy Channels",[IT]_VIRGIN HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63209
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_ITALIA 1 HD" tvg-logo="" group-title="Italy Channels",[IT]_ITALIA 1 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63210
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_MEDIASET EXTRA HD" tvg-logo="" group-title="Italy Channels",[IT]_MEDIASET EXTRA HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63211
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_MEDIASET ITALIA 2" tvg-logo="" group-title="Italy Channels",[IT]_MEDIASET ITALIA 2
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63212
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_PREMIUM ACTION HD" tvg-logo="" group-title="Italy Channels",[IT]_PREMIUM ACTION HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63213
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_PREMIUM CINEMA 1 +24 HD" tvg-logo="" group-title="Italy Channels",[IT]_PREMIUM CINEMA 1 +24 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63214
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_DISCOVERY K2 HD" tvg-logo="" group-title="Italy Channels",[IT]_DISCOVERY K2 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63215
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_DISCOVERY NOVE HD" tvg-logo="" group-title="Italy Channels",[IT]_DISCOVERY NOVE HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63216
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_PREMIUM CINEMA 2 HD" tvg-logo="" group-title="Italy Channels",[IT]_PREMIUM CINEMA 2 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63217
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_PREMIUM CINEMA 3 HD" tvg-logo="" group-title="Italy Channels",[IT]_PREMIUM CINEMA 3 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63218
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_PREMIUM CINEMA 1 HD" tvg-logo="" group-title="Italy Channels",[IT]_PREMIUM CINEMA 1 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63219
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_PREMIUM CRIME HD" tvg-logo="" group-title="Italy Channels",[IT]_PREMIUM CRIME HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63220
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_CIELO HD" tvg-logo="" group-title="Italy Channels",[IT]_CIELO HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63221
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_FOOD NETWORK HD" tvg-logo="" group-title="Italy Channels",[IT]_FOOD NETWORK HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63222
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY SPORT COLLECTION HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY SPORT COLLECTION HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63223
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_DISNEY JUNIOR HD" tvg-logo="" group-title="Italy Channels",[IT]_DISNEY JUNIOR HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63224
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RADIO ZETA HD" tvg-logo="" group-title="Italy Channels",[IT]_RADIO ZETA HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63225
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_PREMIUM STORIES HD" tvg-logo="" group-title="Italy Channels",[IT]_PREMIUM STORIES HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63226
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_FOX COMEDY HD" tvg-logo="" group-title="Italy Channels",[IT]_FOX COMEDY HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63227
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_EUROSPORT 1 HD" tvg-logo="" group-title="Italy Channels",[IT]_EUROSPORT 1 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63228
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_EUROSPORT 2 HD" tvg-logo="" group-title="Italy Channels",[IT]_EUROSPORT 2 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63229
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RAI SCUOLA HD" tvg-logo="" group-title="Italy Channels",[IT]_RAI SCUOLA HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63230
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_UNINETTUNO UNIVERSITY TV" tvg-logo="" group-title="Italy Channels",[IT]_UNINETTUNO UNIVERSITY TV
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63231
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_20 MEDIASET HD" tvg-logo="" group-title="Italy Channels",[IT]_20 MEDIASET HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63232
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_HISTORY HD" tvg-logo="" group-title="Italy Channels",[IT]_HISTORY HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63233
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_FOX HD" tvg-logo="" group-title="Italy Channels",[IT]_FOX HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63234
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SUPER TENNIS HD" tvg-logo="" group-title="Italy Channels",[IT]_SUPER TENNIS HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63235
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_INTER CHANNEL HD" tvg-logo="" group-title="Italy Channels",[IT]_INTER CHANNEL HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63236
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_DISCOVERY CHANNEL HD" tvg-logo="" group-title="Italy Channels",[IT]_DISCOVERY CHANNEL HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63237
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_DISCOVERY FOCUS HD" tvg-logo="" group-title="Italy Channels",[IT]_DISCOVERY FOCUS HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63238
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY TG 24" tvg-logo="" group-title="Italy Channels",[IT]_SKY TG 24
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63239
+#EXTINF:-1 tvg-id="" tvg-name="[CH]_RSI La 1 HD" tvg-logo="" group-title="Swiss Channels",[CH]_RSI La 1 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63240
+#EXTINF:-1 tvg-id="" tvg-name="[CH]_RSI LA 2 HD" tvg-logo="" group-title="Swiss Channels",[CH]_RSI LA 2 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63241
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY UNO" tvg-logo="" group-title="Italy Channels",[IT]_SKY UNO
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63242
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_CANALE 8" tvg-logo="" group-title="Italy Channels",[IT]_CANALE 8
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63243
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY CINEMA UNO HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY CINEMA UNO HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63244
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY CINEMA DUE HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY CINEMA DUE HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63245
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY CINEMA COLLECTION HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY CINEMA COLLECTION HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63246
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_HGTV Italy HD" tvg-logo="" group-title="Italy Channels",[IT]_HGTV Italy HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63247
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY CINEMA DRAMA HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY CINEMA DRAMA HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63248
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY CINEMA COMEDY HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY CINEMA COMEDY HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63249
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_TV8" tvg-logo="" group-title="Italy Channels",[IT]_TV8
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63250
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY CINEMA ACTION HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY CINEMA ACTION HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63251
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY CINEMA SUSPANCE HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY CINEMA SUSPANCE HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63252
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY CINEMA ROMANCE HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY CINEMA ROMANCE HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63253
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY CINEMA ATLANTIC HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY CINEMA ATLANTIC HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63254
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY SPORT UNO HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY SPORT UNO HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63255
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY SPORT ARENA HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY SPORT ARENA HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63256
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY SPORT SERIE A HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY SPORT SERIE A HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63257
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY SPORT 24 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY SPORT 24 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63258
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY MOTO GP HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY MOTO GP HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63259
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY SPORT F1 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY SPORT F1 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63260
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY SPORT 251 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY SPORT 251 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63261
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY SPORT 252 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY SPORT 252 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63262
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY SPORT 253 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY SPORT 253 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63263
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY SPORT 254 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY SPORT 254 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63264
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY SPORT 255 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY SPORT 255 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63265
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RAI GULP" tvg-logo="" group-title="Italy Channels",[IT]_RAI GULP
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63266
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_DISCOVERY SCIENCE HD" tvg-logo="" group-title="Italy Channels",[IT]_DISCOVERY SCIENCE HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63267
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_RAI SPORT HD" tvg-logo="" group-title="Italy Channels",[IT]_RAI SPORT HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63268
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY PRIMAFILA 1 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY PRIMAFILA 1 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63269
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY PRIMAFILA 2 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY PRIMAFILA 2 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63270
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY PRIMAFILA 3 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY PRIMAFILA 3 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63271
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY PRIMAFILA 6 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY PRIMAFILA 6 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63272
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY PRIMAFILA 4 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY PRIMAFILA 4 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63273
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY PRIMAFILA 5 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY PRIMAFILA 5 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63274
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY PRIMAFILA 7 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY PRIMAFILA 7 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63275
+#EXTINF:-1 tvg-id="" tvg-name="[IT]_SKY PRIMAFILA 8 HD" tvg-logo="" group-title="Italy Channels",[IT]_SKY PRIMAFILA 8 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63276
