@@ -1,1 +1,1 @@
-# shqipiptv
+# iptv
